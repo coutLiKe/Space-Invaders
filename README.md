@@ -43,3 +43,11 @@ I created this Space Invaders game to:
 
 ## License
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details.
+
+## Gameplay
+Sorry, the gameplay sound was not recorded. But here is the [Gameplay](https://github.com/coutLiKe/Space-Invaders/assets/90409246/9eedeb03-4bfe-4359-8ffe-6303a24acf92).
+
+![Screenshot 2024-05-19 013024](https://github.com/coutLiKe/Space-Invaders/assets/90409246/5d5dbb27-f607-45fa-bdd8-c8f36e7c7b6f)
+![Screenshot 2024-05-19 013033](https://github.com/coutLiKe/Space-Invaders/assets/90409246/e11174e0-8cff-4e62-96ef-108b6cb01d44)
+
+
